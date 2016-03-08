@@ -4,5 +4,9 @@
 
 
 body{
-  background-color: #fff;
+<<<<<<< HEAD
+  background-color: red;
+=======
+  background-color: green;
+>>>>>>> test
 }
